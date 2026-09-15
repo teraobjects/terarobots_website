@@ -50,7 +50,7 @@ This repository is optimized for GitHub Pages:
    - Under **Build and deployment > Source**, select **Deploy from a branch**.
    - Under **Branch**, select `main` and folder `/ (root)`.
    - Click **Save**.
-3. Your website will be live in 1–2 minutes!
+3. Your website will be live in 2–3 minutes!
 
 ---
 
